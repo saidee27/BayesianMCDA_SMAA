@@ -1,0 +1,66 @@
+> sessionInfo()
+R version 3.6.1 (2019-07-05)
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+Running under: Windows 10 x64 (build 19042)
+
+Matrix products: default
+
+locale:
+[1] LC_COLLATE=English_United States.1252 
+[2] LC_CTYPE=English_United States.1252   
+[3] LC_MONETARY=English_United States.1252
+[4] LC_NUMERIC=C                          
+[5] LC_TIME=English_United States.1252    
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods  
+[7] base     
+
+other attached packages:
+ [1] egg_0.4.5             slickR_0.5.0         
+ [3] gridExtra_2.3         RBesT_1.6-1          
+ [5] Rcpp_1.0.3            hitandrun_0.5-5      
+ [7] shinycssloaders_0.2.0 shinyjs_1.0          
+ [9] shinyWidgets_0.4.9    shinythemes_1.1.2    
+[11] dashboardthemes_1.0.5 reshape2_1.4.3       
+[13] matrixStats_0.55.0    formattable_0.2.0.1  
+[15] DT_0.10               forcats_0.4.0        
+[17] stringr_1.4.0         dplyr_1.0.6          
+[19] purrr_0.3.3           readr_1.3.1          
+[21] tidyr_1.0.0           tibble_3.1.1         
+[23] tidyverse_1.2.1       devtools_2.2.1       
+[25] usethis_1.5.1         plotly_4.9.1         
+[27] ggplot2_3.2.1         shinydashboard_0.7.1 
+[29] shiny_1.4.0          
+
+loaded via a namespace (and not attached):
+ [1] colorspace_1.4-1     ellipsis_0.3.2       rprojroot_1.3-2     
+ [4] base64enc_0.1-3      fs_1.3.1             rstudioapi_0.10     
+ [7] rstan_2.21.2         remotes_2.1.0        fansi_0.4.0         
+[10] mvtnorm_1.1-3        lubridate_1.7.4      xml2_1.2.2          
+[13] codetools_0.2-16     knitr_1.26           pkgload_1.0.2       
+[16] Formula_1.2-4        jsonlite_1.6         broom_0.5.2         
+[19] compiler_3.6.1       httr_1.4.1           backports_1.1.5     
+[22] assertthat_0.2.1     fastmap_1.0.1        lazyeval_0.2.2      
+[25] cli_3.3.0            later_1.0.0          htmltools_0.4.0     
+[28] prettyunits_1.0.2    tools_3.6.1          gtable_0.3.0        
+[31] glue_1.6.2           V8_3.4.2             cellranger_1.1.0    
+[34] vctrs_0.3.8          nlme_3.1-140         xfun_0.11           
+[37] ps_1.3.0             testthat_2.3.0       rvest_0.3.5         
+[40] mime_0.7             lifecycle_1.0.1      scales_1.0.0        
+[43] hms_0.5.2            promises_1.1.0       parallel_3.6.1      
+[46] inline_0.3.19        curl_4.2             memoise_1.1.0       
+[49] loo_2.5.1            StanHeaders_2.21.0-7 stringi_1.4.3       
+[52] desc_1.2.0           checkmate_2.1.0      pkgbuild_1.0.6      
+[55] rlang_0.4.11         pkgconfig_2.0.3      evaluate_0.14       
+[58] lattice_0.20-38      htmlwidgets_1.5.1    processx_3.4.1      
+[61] tidyselect_1.1.1     plyr_1.8.4           magrittr_1.5        
+[64] R6_2.4.1             generics_0.0.2       DBI_1.0.0           
+[67] pillar_1.7.0         haven_2.2.0          withr_2.1.2         
+[70] modelr_0.1.5         crayon_1.3.4         utf8_1.1.4          
+[73] rmarkdown_1.17       grid_3.6.1           readxl_1.3.1        
+[76] data.table_1.12.6    callr_3.3.2          digest_0.6.22       
+[79] xtable_1.8-4         httpuv_1.5.2         RcppParallel_5.1.5  
+[82] stats4_3.6.1         munsell_0.5.0        viridisLite_0.3.0   
+[85] sessioninfo_1.1.1   
+> 

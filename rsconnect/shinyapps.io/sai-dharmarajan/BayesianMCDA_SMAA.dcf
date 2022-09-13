@@ -1,0 +1,13 @@
+name: BayesianMCDA_SMAA
+title: BayesianMCDA_SMAA
+username:
+account: sai-dharmarajan
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6993080
+bundleId: 6296246
+url: https://sai-dharmarajan.shinyapps.io/BayesianMCDA_SMAA/
+when: 1663043157.76077
+lastSyncTime: 1663043157.76077
+asMultiple: FALSE
+asStatic: FALSE
